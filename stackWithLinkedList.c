@@ -1,6 +1,6 @@
 //ModRed
 /*
-Implementing Queue using Linked List:
+Implementing Stack using Linked List:
 
 ok so the way i've implemented a stack is like follows:
 
